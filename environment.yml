@@ -1,5 +1,12 @@
-Name:
+Name: nckuworkshop
 
 channels:
+  - conda-forge
+  - defaults
 
 dependencies:
+  - python3.9
+  - numpy
+  - pandas
+  - matplotlib
+  
